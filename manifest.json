@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "datasette",
+  "repo": "datasette-agent-modeler",
+  "versions": [
+    {
+      "commit": "99844d7b5010bb33a2bb6a07cbd7c6c3dbcdf509",
+      "parsed_at": "2026-10-12T16:54:57.035202+00:00",
+      "tag": "0.1a0",
+      "filetree": "filetree/99844d7b5010bb33a2bb6a07cbd7c6c3dbcdf509.nq.gz",
+      "blobs": [
+        "blob/b8a2a436b293016758b373603c0d35e3fb9ebbf4.nq.gz",
+        "blob/020ac8a3c84a3d7961c3b8de581a5f2bef5ef16d.nq.gz",
+        "blob/7b989cbccc5e3ab9cd039afd21acb262f4580197.nq.gz",
+        "blob/de314fa05458fa1482962590dd81b551176771b7.nq.gz",
+        "blob/eb22e74eaaaf0edc4aa2c0f8900a55750d1660f9.nq.gz",
+        "blob/843e57d0581ea264f7b4bb9dec01788717cfe548.nq.gz",
+        "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
+        "blob/a6a96bb7d486d9df8e33c862f4bf8cecc51059ac.nq.gz",
+        "blob/bf8b98af886de513e45bba57effdba7d72fa98de.nq.gz",
+        "blob/f9db6178e08ac5e4ddd067387b9589ae1b212297.nq.gz",
+        "blob/6d461e915a3b9570bbc4e1d748595dfbe38e4f2a.nq.gz",
+        "blob/f93f09cc2e42c94de424f3b9bb4df9337b12652a.nq.gz",
+        "blob/57f0cfdf9183a2b2029d0446bad3451ebc7d8012.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}

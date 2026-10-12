@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/datasette/datasette-agent-modeler/commit/99844d7b5010bb33a2bb6a07cbd7c6c3dbcdf509",
       "git:hexsha": "99844d7b5010bb33a2bb6a07cbd7c6c3dbcdf509",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.1a0"
     }
   ]
